@@ -1,0 +1,14 @@
+openai
+python-dotenv
+transformers
+accelerate
+safetensors
+torch
+langchain
+langchain-community
+langchain-chroma
+langchain-text-splitters
+chromadb
+PyMuPDF
+pydantic
+matplotlib

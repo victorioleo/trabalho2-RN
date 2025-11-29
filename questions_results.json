@@ -1,0 +1,182 @@
+[
+  {
+    "id": 1,
+    "question": "O curso é totalmente presencial ou teremos aulas online?",
+    "answer": "De acordo com o Art. 3º, os Cursos funcionam na modalidade acadêmica e presencial. Contudo, pelo parágrafo único do mesmo artigo, com a aprovação do Colegiado de Curso, atividades e disciplinas poderão ocorrer de forma híbrida ou a distância, conforme o Regulamento dos Cursos de Pós-Graduação Stricto Sensu.",
+    "total_facts": 6,
+    "supported_facts": 6,
+    "unsupported_facts": 0,
+    "factual_accuracy_score": 1.0
+  },
+  {
+    "id": 2,
+    "question": "Quantos créditos eu preciso cumprir obrigatoriamente para defender o Mestrado?",
+    "answer": "Não consigo achar a resposta exata sobre quantos créditos são exigidos especificamente \"para defender\" no regulamento fornecido. \n\nContudo, o Art. 27 estabelece que o estudante deverá obter, no mínimo, vinte créditos para diplomação no Curso de Mestrado, distribuídos conforme a Estrutura Curricular do Curso, devendo-se integralizar, entre outros, pelo menos dezesseis créditos em disciplinas dos grupos I, II, III ou IV (Art. 27).",
+    "total_facts": 5,
+    "supported_facts": 4,
+    "unsupported_facts": 1,
+    "factual_accuracy_score": 0.8
+  },
+  {
+    "id": 3,
+    "question": "E para o Doutorado, qual é a exigência mínima de créditos para defender?",
+    "answer": "Não consigo encontrar a resposta para esta pergunta nos regulamentos fornecidos.\n\nO texto apenas indica como critério a \"conclusão do número mínimo de créditos\" (§ 3º, I), mas o valor mínimo de créditos para o Doutorado não está especificado no trecho apresentado.",
+    "total_facts": 3,
+    "supported_facts": 1,
+    "unsupported_facts": 2,
+    "factual_accuracy_score": 0.3333333333333333
+  },
+  {
+    "id": 4,
+    "question": "Se eu já publiquei um artigo científico antes de entrar no curso, posso usá-lo para ganhar créditos?",
+    "answer": "Sim. Conforme o § 2º do trecho fornecido, um \"Artigo científico publicado em periódico ou conferência com Qualis no estrato restrito na área de Ciência da Computação, em até um ano antes do ingresso do Cursos de Mestrado e Doutorado\" é considerado. O mesmo trecho indica valor (75 Pts/por publicação) e \"Sem limite\" quanto à quantidade. (ver § 2º e tabela correspondente).",
+    "total_facts": 7,
+    "supported_facts": 7,
+    "unsupported_facts": 0,
+    "factual_accuracy_score": 1.0
+  },
+  {
+    "id": 5,
+    "question": "Sou obrigado a fazer o Estágio de Docência?",
+    "answer": "Conforme o regulamento fornecido, o Estágio de Docência é obrigatório para estudantes bolsistas. Em particular:\n- Art. 29, §1º: \"O Estágio de Docência, com dois créditos para o Curso de Mestrado e quatro créditos para o Curso de Doutorado, é obrigatório aos estudantes bolsistas...\"\n- Art. 61: \"O estudante que recebe bolsa deverá realizar Estágio de Docência...\"\n\nSe você não é bolsista, o texto fornecido não explicita que o Estágio de Docência seja obrigatório para estudantes não bolsistas; portanto, não encontro essa informação no regulamento apresentado.",
+    "total_facts": 9,
+    "supported_facts": 9,
+    "unsupported_facts": 0,
+    "factual_accuracy_score": 1.0
+  },
+  {
+    "id": 6,
+    "question": "Até quando preciso comprovar proficiência em língua inglesa no Mestrado?",
+    "answer": "Conforme o §1º do regulamento fornecido, a comprovação de proficiência em língua inglesa para o Curso de Mestrado poderá ser realizada até o fim do quarto semestre do curso. (Ver §1º)",
+    "total_facts": 3,
+    "supported_facts": 2,
+    "unsupported_facts": 1,
+    "factual_accuracy_score": 0.6666666666666666
+  },
+  {
+    "id": 7,
+    "question": "Qual é o prazo máximo para comprovar a proficiência em inglês se eu for aluno de Doutorado?",
+    "answer": "De acordo com o §1º do regulamento fornecido, a comprovação de proficiência em língua inglesa para o Curso de Doutorado deverá ser realizada até o fim do sexto semestre do curso.",
+    "total_facts": 3,
+    "supported_facts": 2,
+    "unsupported_facts": 1,
+    "factual_accuracy_score": 0.6666666666666666
+  },
+  {
+    "id": 8,
+    "question": "Como funcionam as notas? Qual conceito preciso tirar para ser aprovado nas matérias?",
+    "answer": "De acordo com o regulamento fornecido, o coeficiente de rendimento do estudante é calculado pela média aritmética, sem aproximação, dos pesos correspondentes aos conceitos obtidos nas atividades curriculares (§ 1º). Os pesos atribuídos a cada conceito são: A = 3; B = 2; C = 1; D = 0 (§ 2º).\n\nNo entanto, o regulamento fornecido não especifica qual conceito (A, B, C ou D) é necessário para considerar a disciplina como aprovada. Não consigo encontrar a resposta a essa parte na documentação fornecida.",
+    "total_facts": 10,
+    "supported_facts": 8,
+    "unsupported_facts": 2,
+    "factual_accuracy_score": 0.8
+  },
+  {
+    "id": 9,
+    "question": "Existe o risco de eu ser desligado do curso logo no primeiro semestre?",
+    "answer": "Sim. Conforme o trecho do regulamento fornecido, há hipóteses que podem acarretar desligamento já no primeiro semestre. São elas:  \n- VI – reprovar em alguma disciplina no seu primeiro semestre letivo;  \n- VII – ao fim do seu primeiro semestre letivo, obtiver coeficiente de rendimento acumulado inferior a 1,5;  \n- VIII – não definir o Orientador até o fim do seu primeiro semestre letivo.  \n\n(Conforme os itens VI, VII e VIII do regulamento apresentado.)",
+    "total_facts": 5,
+    "supported_facts": 5,
+    "unsupported_facts": 0,
+    "factual_accuracy_score": 1.0
+  },
+  {
+    "id": 10,
+    "question": "Qual é o coeficiente de rendimento (CR) mínimo que preciso manter para não ser desligado após o segundo semestre?",
+    "answer": "Não consigo encontrar a resposta para esta pergunta nos regulamentos fornecidos.\n\nObservações extraídas do texto fornecido:\n- O regulamento descreve como o coeficiente de rendimento (CR) é calculado: § 1º — \"o coeficiente de rendimento do estudante é calculado por meio da média aritmética, sem aproximação, de pesos correspondentes aos conceitos obtidos nas atividades curriculares\"; § 2º — \"Os pesos correspondentes a cada conceito são: A=3; B=2; C=1; D=0.\"\n- O Art. 42 traz motivos de desligamento (por exemplo, não renovar matrícula dentro do prazo; ultrapassar prazo máximo de 24 meses), mas não estabelece um CR mínimo para evitar desligamento.\n\nPortanto, o valor mínimo de CR necessário para não ser desligado após o segundo semestre não consta no trecho fornecido.",
+    "total_facts": 14,
+    "supported_facts": 13,
+    "unsupported_facts": 1,
+    "factual_accuracy_score": 0.9285714285714286
+  },
+  {
+    "id": 11,
+    "question": "Posso aproveitar créditos de disciplinas que fiz em outros programas de pós-graduação?",
+    "answer": "Sim. De acordo com o trecho fornecido, créditos obtidos em Programas de Pós‑Graduação reconhecidos pela CAPES — inclusive no próprio curso — podem ser aproveitados até cem por cento do número de créditos exigidos em disciplinas, desde que o conceito final seja igual ou superior a “B” e observadas as exigências do Regulamento dos Cursos de Pós‑Graduação Stricto Sensu (trecho inicial do contexto). Entretanto, atenção: \"§ 1º Créditos em disciplinas cursadas para a obtenção do título de Mestre não serão convalidados no Doutorado.\"",
+    "total_facts": 10,
+    "supported_facts": 7,
+    "unsupported_facts": 3,
+    "factual_accuracy_score": 0.7
+  },
+  {
+    "id": 12,
+    "question": "Qual é o prazo limite para eu qualificar meu projeto de Mestrado?",
+    "answer": "De acordo com o Art. 47, o prazo máximo para a qualificação do estudante de Mestrado é de 12 (doze) meses. (Art. 47).  \nObservação: a Banca pode ocorrer a distância (§ 1º) e, excepcionalmente, o prazo pode ser prorrogado por mais 6 (seis) meses mediante justificativa do Orientador e aprovação do Colegiado de Curso (§ 2º).",
+    "total_facts": 8,
+    "supported_facts": 8,
+    "unsupported_facts": 0,
+    "factual_accuracy_score": 1.0
+  },
+  {
+    "id": 13,
+    "question": "E para o Doutorado, quando devo realizar a qualificação?",
+    "answer": "Não consigo achar a resposta exata no regulamento fornecido.  \n\nPara referência, o Art. 47 estabelece prazo de qualificação apenas para o Mestrado (até doze meses) — nada no trecho fornecido especifica o prazo de qualificação para o Doutorado. (Ver também Art. 51, que trata de procedimentos para solicitação do Exame de Qualificação, sem indicar prazo para o Doutorado.)",
+    "total_facts": 6,
+    "supported_facts": 5,
+    "unsupported_facts": 1,
+    "factual_accuracy_score": 0.8333333333333334
+  },
+  {
+    "id": 14,
+    "question": "Quais são os requisitos mínimos para eu poder solicitar minha banca de qualificação de Doutorado?",
+    "answer": "De acordo com o Art. 50 do regulamento, os requisitos mínimos para solicitar o Exame de Qualificação de Doutorado são:\n- aprovação em pelo menos 60% dos créditos obrigatórios (Art. 50, I);\n- aprovação na disciplina Seminários de Computação (Art. 50, II);\n- anuência do orientador para a realização do exame (Art. 50, III).\n\nObservação: o texto também indica que cabe ao Professor Orientador requerer o agendamento do Exame de Qualificação e indicar os pesquisadores doutores para composição da banca.",
+    "total_facts": 6,
+    "supported_facts": 6,
+    "unsupported_facts": 0,
+    "factual_accuracy_score": 1.0
+  },
+  {
+    "id": 15,
+    "question": "Se eu reprovar na qualificação, tenho uma segunda chance?",
+    "answer": "Sim. Conforme o § 5º do regulamento, o estudante reprovado poderá realizar novo Exame de Qualificação no prazo máximo de três meses após o primeiro, observando os prazos para Qualificação e Defesa previstos no Regulamento, sob pena de desligamento do curso.",
+    "total_facts": 6,
+    "supported_facts": 5,
+    "unsupported_facts": 1,
+    "factual_accuracy_score": 0.8333333333333334
+  },
+  {
+    "id": 16,
+    "question": "Para defender a dissertação de Mestrado, preciso ter submetido algum artigo?",
+    "answer": "I cannot find the answer to this question in the provided regulations.\n\nNo regulamento fornecido não há exigência explícita de submissão ou publicação de artigo para a defesa da dissertação de mestrado. O Art. 52 (prazo e composição da banca), o Art. 55 (forma da dissertação) e o Art. 56 (procedimentos da sessão pública) não mencionam obrigação de artigo. Por outro lado, o trecho presente nas regras que lista os itens III–V exige publicação apenas em referência ao doutorado — “V – publicação ou aceite de pelo menos um artigo científico, relacionado ao trabalho de doutorado …” (trecho fornecido).",
+    "total_facts": 8,
+    "supported_facts": 6,
+    "unsupported_facts": 2,
+    "factual_accuracy_score": 0.75
+  },
+  {
+    "id": 17,
+    "question": "No Doutorado, a exigência de publicação para a defesa é maior?",
+    "answer": "Não consigo encontrar a resposta direta à comparação (se a exigência é maior no Doutorado) no regulamento fornecido. \n\nPosso, entretanto, informar o que consta sobre o Doutorado no trecho apresentado: o item V exige \"publicação ou aceite de pelo menos um artigo científico, relacionado ao trabalho de doutorado, em periódico ou conferência classificados no estrato restrito do Qualis ... ou pelo menos dois artigos científicos relacionados ao trabalho de doutorado, em periódico, classificados no estrato restrito do Qualis\" (item V do trecho anterior ao Art. 32).",
+    "total_facts": 8,
+    "supported_facts": 6,
+    "unsupported_facts": 2,
+    "factual_accuracy_score": 0.75
+  },
+  {
+    "id": 18,
+    "question": "Quem pode compor minha banca de defesa? Posso convidar parentes que sejam doutores?",
+    "answer": "Conforme o regulamento fornecido:\n\n- Composição geral: a banca é presidida pelo Orientador e deve incluir apenas pesquisadores titulados (doutores) que não sejam Coorientadores do estudante. (ver trecho: \"deve ser composta pelo Orientador, que a presidirá, e por [...] pesquisadores com título de doutor que não sejam Coorientadores...\" e Art. 13 que trata de Coorientadores).\n\n- Diferença Mestrado / Doutorado:\n  - Dissertação de mestrado: Orientador (presidente) + pelo menos mais dois pesquisadores com título de doutor que não sejam Coorientadores. (Art. 52).\n  - Tese de doutorado (trecho do regulamento): Orientador + pelo menos mais quatro membros que não sejam Coorientadores; entre esses, no mínimo dois devem ser externos aos Cursos de Mestrado e Doutorado, e um deles deve ser docente permanente de Programa de Pós‑Graduação em Ciência da Computação com conceito CAPES 6 ou 7 ou de instituição estrangeira de excelência (trecho do regulamento apresentado).\n\n- Sobre convidar parentes: é vedada a participação de cônjuge ou companheiro(a) do Orientador ou do estudante, mesmo que divorciado ou separado judicialmente (Art. 54, I). Para outros parentes (por exemplo pais, irmãos, tios), o regulamento fornecido não traz proibição explícita; portanto, desde que atendam aos requisitos (título de doutor, não serem Coorientadores, observadas as exigências de externalidade quando aplicável), nada no trecho apresentado os impede. (ver Art. 54 para a vedação específica).\n\nSe desejar, posso apontar exatamente os trechos citados para sua situação (mestrado ou doutorado) e verificar se o parente em questão enquadra‑se nas restrições mencionadas.",
+    "total_facts": 25,
+    "supported_facts": 19,
+    "unsupported_facts": 6,
+    "factual_accuracy_score": 0.76
+  },
+  {
+    "id": 19,
+    "question": "Qual é o tempo máximo total que tenho para concluir o Mestrado?",
+    "answer": "O prazo máximo para a conclusão do Curso de Mestrado é de 24 meses. (Conforme Art. 52: \"A Defesa da Dissertação de Mestrado... até o prazo máximo de vinte e quatro meses...\" e também pelo trecho que indica \"ultrapassar o prazo máximo de vinte e quatro meses para a conclusão do Curso de Mestrado...\" como causa de desligamento.)",
+    "total_facts": 4,
+    "supported_facts": 4,
+    "unsupported_facts": 0,
+    "factual_accuracy_score": 1.0
+  },
+  {
+    "id": 20,
+    "question": "Se eu conseguir uma bolsa da CAPES ou CNPq, quais são minhas obrigações extras?",
+    "answer": "De acordo com o Art. 61, o estudante bolsista deverá realizar Estágio de Docência em curso de graduação da UFMS (respeitando o Regulamento do Programa de Demanda Social). Para o Curso de Doutorado, são exigidos quatro créditos, sendo essa obrigação aplicável aos estudantes bolsistas de ambos os cursos. O estágio compreende atribuições relativas a encargos acadêmicos associados a atividades de Graduação, sob supervisão direta ou indireta do Orientador, e deve seguir a regulamentação específica das agências financiadoras (CAPES/CNPq) e deste Regulamento (Art. 61).",
+    "total_facts": 10,
+    "supported_facts": 8,
+    "unsupported_facts": 2,
+    "factual_accuracy_score": 0.8
+  }
+]

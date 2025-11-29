@@ -1,0 +1,84 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "O curso é totalmente presencial ou teremos aulas online?"
+    },
+    {
+      "id": 2,
+      "question": "Quantos créditos eu preciso cumprir obrigatoriamente para defender o Mestrado?"
+    },
+    {
+      "id": 3,
+      "question": "E para o Doutorado, qual é a exigência mínima de créditos para defender?"
+    },
+    {
+      "id": 4,
+      "question": "Se eu já publiquei um artigo científico antes de entrar no curso, posso usá-lo para ganhar créditos?"
+    },
+    {
+      "id": 5,
+      "question": "Sou obrigado a fazer o Estágio de Docência?"
+    },
+    {
+      "id": 6,
+      "question": "Até quando preciso comprovar proficiência em língua inglesa no Mestrado?"
+    },
+    {
+      "id": 7,
+      "question": "Qual é o prazo máximo para comprovar a proficiência em inglês se eu for aluno de Doutorado?"
+    },
+    {
+      "id": 8,
+      "question": "Como funcionam as notas? Qual conceito preciso tirar para ser aprovado nas matérias?"
+    },
+    {
+      "id": 9,
+      "question": "Existe o risco de eu ser desligado do curso logo no primeiro semestre?"
+    },
+    {
+      "id": 10,
+      "question": "Qual é o coeficiente de rendimento (CR) mínimo que preciso manter para não ser desligado após o segundo semestre?"
+    },
+    {
+      "id": 11,
+      "question": "Posso aproveitar créditos de disciplinas que fiz em outros programas de pós-graduação?"
+    },
+    {
+      "id": 12,
+      "question": "Qual é o prazo limite para eu qualificar meu projeto de Mestrado?"
+    },
+    {
+      "id": 13,
+      "question": "E para o Doutorado, quando devo realizar a qualificação?"
+    },
+    {
+      "id": 14,
+      "question": "Quais são os requisitos mínimos para eu poder solicitar minha banca de qualificação de Doutorado?"
+    },
+    {
+      "id": 15,
+      "question": "Se eu reprovar na qualificação, tenho uma segunda chance?"
+    },
+    {
+      "id": 16,
+      "question": "Para defender a dissertação de Mestrado, preciso ter submetido algum artigo?"
+    },
+    {
+      "id": 17,
+      "question": "No Doutorado, a exigência de publicação para a defesa é maior?"
+    },
+    {
+      "id": 18,
+      "question": "Quem pode compor minha banca de defesa? Posso convidar parentes que sejam doutores?"
+    },
+    {
+      "id": 19,
+      "question": "Qual é o tempo máximo total que tenho para concluir o Mestrado?"
+    },
+    {
+      "id": 20,
+      "question": "Se eu conseguir uma bolsa da CAPES ou CNPq, quais são minhas obrigações extras?"
+    }
+  ]
+}

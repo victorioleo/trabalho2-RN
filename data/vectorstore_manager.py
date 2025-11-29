@@ -59,7 +59,14 @@ def load_vectorstore_retriever(lib_name : str,
                               persist_directory=f'{BASE_PERSIST_DIR}/chroma_persist/{sanitized_lib_name}',
                               embedding_function=embedding,
                              )
-    retriever = vector_store.as_retriever(k = k)
+    retriever = vector_store.as_retriever(
+        search_type="mmr",
+        search_kwargs={
+            "k": k,
+            "fetch_k": max(20, k * 5),
+            "lambda_mult": 0.5,
+        },
+    )
     return retriever
 
 def load_vectorstore(lib_name : str):

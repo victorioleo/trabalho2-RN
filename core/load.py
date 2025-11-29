@@ -1,5 +1,4 @@
 from data.vectorstore_manager import create_vectorstore
-import time
 import tempfile
 
 def process_file(path=None, file_obj=None, lib=None):
